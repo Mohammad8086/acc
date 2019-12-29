@@ -3,7 +3,7 @@ using System.Data;
 using System.Collections.Generic;
 using System.Collections;
 
-namespace ConsoleApp5
+namespace ConsoleApp5 //enumerable class test
 {
     class Program
     {
